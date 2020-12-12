@@ -52,7 +52,7 @@ function changeTitle(){
 		document.title="可能这是一个匆忙但是美丽的旅行，不如这里存下这一个美丽的瞬间";
 	}
 	ind++;
-	setTimeout("changeTitle()",2000)
+	setTimeout("changeTitle()",3000)
 }
 function f1() {
 	showPic();
