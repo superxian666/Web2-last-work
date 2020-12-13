@@ -38,8 +38,7 @@ function showPrepic(){
 function showPre(){
 	clearTimeout(timer);
 	showPrepic();
-}
-		   
+}	   
 function showNext(){
 	clearTimeout(timer);
 	showPic()();
